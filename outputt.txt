@@ -1,0 +1,9 @@
+enter the emp id 12334
+enter the emp nameAkanksha
+enter the emp Age19
+enter the emp salary80000
+employee detail
+emp id:12334
+emp name:Akanksha
+emp age:19
+emp salary:80000
